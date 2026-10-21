@@ -1,0 +1,12 @@
+title: Data Science Portfolio
+description: A reproducible analysis of harassment and bullying in U.S. public schools.
+markdown: kramdown
+exclude:
+  - analysis.py
+  - requirements.txt
+  - dataset
+  - README.md
+  - GUIDE_ZH.md
+  - SUBMISSION_TEMPLATE.md
+  - .venv
+  - __pycache__
